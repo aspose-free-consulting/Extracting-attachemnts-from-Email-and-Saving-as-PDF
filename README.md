@@ -36,7 +36,8 @@ There are 3 arguments used:
 
 3: "TestOutput.pdf": Desired output PDF file name
 
-https://imgur.com/BRKDhqM
+
+![GitHub Logo](https://user-images.githubusercontent.com/3595481/99031834-111d3f80-2546-11eb-8db5-5cfc136297de.png)
 
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
