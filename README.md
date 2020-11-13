@@ -31,7 +31,9 @@ This project has been configured to execute by providing command line arguments 
 There are 3 arguments used:
 
 1: "C:\Users\mudas\Desktop\TestAttachment\MSG" : It is path to MSG files directory
+
 2: "C:\Aspose Data\Aspose.Total.Product.Family.lic": It is License file name including its path. If license file is place along side the exe file, you will only be adding the license file name here.
+
 3: "TestOutput.pdf": Desired output PDF file name
 
 https://imgur.com/BRKDhqM
