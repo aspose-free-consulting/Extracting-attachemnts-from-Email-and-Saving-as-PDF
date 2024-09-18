@@ -48,4 +48,4 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
 ## This free consluting project is based on the following issue:
 
-[I want to create a console app that extract attachments from email (msg) and convert/merge into one PDF](https://github.com/aspose-free-consulting/projects/issues/49)
+I want to create a console app that extract attachments from email (msg) and convert/merge into one PDF: github.com/aspose-free-consulting/projects/issues/49
